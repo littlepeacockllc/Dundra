@@ -1,6 +1,7 @@
 // Hamburger
 // ==================================================
 .hamburger {
+  display: none !important;
   padding: $hamburger-padding-y $hamburger-padding-x;
   display: inline-block;
   cursor: pointer;
